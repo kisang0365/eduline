@@ -1,0 +1,37 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/send_msg"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/activity_client_send_msg"/>
+    <item
+        android:id="@+id/call_contact"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/activity_client_call_contact"/>
+    <item
+        android:id="@+id/add_client"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/activity_client_add_client"/>
+    <item
+        android:id="@+id/edit_client"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/activity_client_edit_client"/>
+    
+    <item
+        android:id="@+id/delete_client"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/activity_client_delete_client"/>
+
+    <item
+        android:id="@+id/app_logout"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="@string/app_logout"/>
+    
+    
+</menu>

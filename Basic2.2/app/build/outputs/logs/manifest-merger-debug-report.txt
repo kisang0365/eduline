@@ -1,0 +1,207 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:2:1-113:12
+	package
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:5:5-30
+	android:versionCode
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml
+uses-feature#0x00020000
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:11:5-13:35
+	android:glEsVersion
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:12:9-41
+	android:required
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:13:9-32
+permission#com.example.samplemap.permission.MAPS_RECEIVE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:15:5-18:18
+	android:protectionLevel
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:17:9-44
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:16:9-69
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:20:22-78
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:21:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:24:5-72
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:24:22-69
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:25:5-75
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:25:22-72
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:26:5-69
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:26:22-66
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:27:5-80
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:27:22-77
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:28:22-76
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:29:5-71
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:29:22-68
+uses-permission#android.permission.KILL_BACKGROUND_PROCESSES
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:30:5-84
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:30:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:31:5-79
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:31:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:32:5-81
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:32:22-78
+uses-permission#android.permission.ACCESS_MOCK_LOCATION
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:33:5-79
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:33:22-76
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:34:5-98
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:34:22-95
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:35:5-86
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:35:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:36:5-87
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:36:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:37:5-81
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:37:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:38:5-83
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:38:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:39:5-88
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:39:22-85
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:40:5-78
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:40:22-75
+application
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:42:5-111:19
+	android:label
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:46:9-41
+	android:hardwareAccelerated
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:44:9-44
+	android:allowBackup
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:43:9-35
+	android:icon
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:45:9-44
+	android:largeHeap
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:47:9-33
+	android:theme
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:48:9-40
+activity#com.fit.basic.kr.Activity_main
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:49:9-61:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:51:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:52:13-54
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:50:13-58
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:54:13-58:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:55:17-69
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:55:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:57:17-77
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:57:27-74
+activity#com.fit.basic.kr.Activity_client
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:63:9-67:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:65:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:66:13-54
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:64:13-60
+activity#com.fit.basic.kr.Activity_join
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:69:9-73:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:71:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:72:13-54
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:70:13-58
+activity#com.fit.basic.kr.Activity_login
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:75:9-79:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:77:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:78:13-54
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:76:13-59
+activity#com.fit.basic.kr.Activity_imageUpload
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:81:9-85:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:83:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:84:13-54
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:82:13-49
+activity#com.fit.basic.kr.Activity_group
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:87:9-91:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:89:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:90:13-54
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:88:13-59
+activity#com.fit.basic.kr.Activity_write
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:94:9-98:20
+	android:screenOrientation
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:96:13-49
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:95:13-59
+meta-data#com.google.android.maps.v2.API_KEY
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:101:9-103:71
+	android:value
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:103:13-68
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:102:13-62
+meta-data#com.google.android.gms.version
+ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:104:9-106:39
+	android:value
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:106:13-36
+	android:name
+		ADDED from C:\Users\Administrator\AndroidStudioProjects\Basic2.2\app\src\main\AndroidManifest.xml:105:13-58

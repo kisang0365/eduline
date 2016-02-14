@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Eduline</string>
+    <string name="app_company">company</string>
+    <string name="app_logout">Logout</string>
+
+
+
+    <string name="join_title">Join</string>
+    <string name="join_id">ID</string>
+    <string name="join_password">Password</string>
+    <string name="join_nickName">Nickname</string>
+    <string name="join_phoneNumber">PhoneNumber</string>
+    <string name="join_email">Email</string>
+    <string name="join_submit">Submit</string>
+
+    <string name="login_login">Login</string>
+    <string name="login_image">Image</string>
+    <string name="login_join">join</string>
+   
+    <string name="app_network_problem">Network Erorr \n Check your nework connecting service </string>
+    <string name="app_server_problem">Oops! \n Please wait for checking server system </string>
+    <string name="app_no_data_problem">Sorry! \n Data is not existed, yet!</string>
+    <string name="app_input_data_problem">Oops! \n Please input proper data </string>
+    
+    
+    
+
+    <!-- activity_main -->
+
+    <string name="activity_main_app_comment">Welcome to Eduline!</string>
+    <string name="activity_main_settings">developer list</string>
+
+    <!-- activity_register -->
+
+
+    <!-- activity_login -->
+
+
+    <!-- activity_client -->
+
+    <string name="activity_client_add_client_with_contact">Add client with contact</string>
+    <string name="activity_client_send_msg">Send Message</string>
+    <string name="activity_client_call_contact">Call Contacts</string>
+    <string name="activity_client_add_client">Add Client</string>
+    <string name="activity_client_edit_client">Edit Client</string>
+    <string name="activity_client_delete_client">Delete Client</string>
+
+    <!-- activity_group -->
+
+
+    <!-- element_header -->
+
+    <string name="element_header_add_client">add</string>
+    <string name="element_header_edit_client">edit</string>
+    <string name="element_header_title">client</string>
+    
+    
+    <string name="element_footer_delete_client">Delete</string>
+    <string name="element_footer_send_msg">Send</string>
+    
+    
+    <string name="tv_element_footer_tab1">Client</string>
+    <string name="tv_element_footer_tab2">Group</string>
+    
+    <!-- element_dialog_menu -->
+    
+    <string name="tv_element_dialog_menu_card1">Notice Card</string>
+    <string name="tv_element_dialog_menu_card2">Report Card</string>
+    
+    
+    <!-- adoptor_form_basic -->
+    
+    <string name="adaptor_form_basic_content_comment">Input Measage</string>
+    <string name="adaptor_form_basic_content_title">Memo</string>
+    
+    
+    
+    
+    
+
+</resources>

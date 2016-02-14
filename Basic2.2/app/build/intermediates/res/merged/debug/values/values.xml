@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Administrator/AndroidStudioProjects/Basic2.2/app/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="activity_client_listview_divider">#ffcc22</color>
+    <color name="activity_layout_background">#ffffff</color>
+    <color name="activity_layout_body_background">#ffffff</color>
+    <color name="activity_layout_center_background">#ffffff</color>
+    <color name="activity_layout_footer_background">#ffffff</color>
+    <color name="activity_layout_header_background">#ffffff</color>
+    <color name="activity_layout_left_background">#ffffff</color>
+    <color name="activity_layout_right_background">#ffffff</color>
+    <color name="activity_main_app_comment">#000000</color>
+    <color name="activity_main_app_name">#000000</color>
+    <color name="activity_main_background">#ffffff</color>
+    <color name="activity_main_company">#000000</color>
+    <color name="app_ci_1">#000000</color>
+    <color name="app_ci_2">#42d1f7</color>
+    <color name="app_ci_3">#be292f</color>
+    <color name="app_ci_4">#cccccc</color>
+    <color name="app_ci_5">#eeeeee</color>
+    <color name="element_layout_background">#ffffff</color>
+    <color name="element_layout_body_background">#ffffff</color>
+    <color name="element_layout_center_background">#ffffff</color>
+    <color name="element_layout_footer_background">#ffffff</color>
+    <color name="element_layout_header_background">#ffffff</color>
+    <color name="element_layout_left_background">#ffffff</color>
+    <color name="element_layout_right_background">#ffffff</color>
+    <!-- From: file:/C:/Users/Administrator/AndroidStudioProjects/Basic2.2/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_layout_body_margin">0dp</dimen>
+    <dimen name="activity_layout_body_padding">0dp</dimen>
+    <dimen name="activity_layout_center_margin">0dp</dimen>
+    <dimen name="activity_layout_center_padding">0dp</dimen>
+    <dimen name="activity_layout_footer_height">50dp</dimen>
+    <dimen name="activity_layout_footer_margin">0dp</dimen>
+    <dimen name="activity_layout_footer_padding">0dp</dimen>
+    <dimen name="activity_layout_header_height">30dp</dimen>
+    <dimen name="activity_layout_header_margin">0dp</dimen>
+    <dimen name="activity_layout_header_padding">0dp</dimen>
+    <dimen name="activity_layout_left_margin">0dp</dimen>
+    <dimen name="activity_layout_left_padding">0dp</dimen>
+    <dimen name="activity_layout_right_margin">0dp</dimen>
+    <dimen name="activity_layout_right_padding">0dp</dimen>
+    <dimen name="element_footer_footer_height">40dp</dimen>
+    <dimen name="element_layout_body_margin">0dp</dimen>
+    <dimen name="element_layout_body_padding">0dp</dimen>
+    <dimen name="element_layout_center_margin">0dp</dimen>
+    <dimen name="element_layout_center_padding">0dp</dimen>
+    <dimen name="element_layout_footer_height">30dp</dimen>
+    <dimen name="element_layout_footer_margin">0dp</dimen>
+    <dimen name="element_layout_footer_padding">0dp</dimen>
+    <dimen name="element_layout_header_height">30dp</dimen>
+    <dimen name="element_layout_header_margin">0dp</dimen>
+    <dimen name="element_layout_header_padding">0dp</dimen>
+    <dimen name="element_layout_left_margin">0dp</dimen>
+    <dimen name="element_layout_left_padding">0dp</dimen>
+    <dimen name="element_layout_right_margin">0dp</dimen>
+    <dimen name="element_layout_right_padding">0dp</dimen>
+    <!-- From: file:/C:/Users/Administrator/AndroidStudioProjects/Basic2.2/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="activity_client_add_client">Add Client</string>
+    <string name="activity_client_add_client_with_contact">Add client with contact</string>
+    <string name="activity_client_call_contact">Call Contacts</string>
+    <string name="activity_client_delete_client">Delete Client</string>
+    <string name="activity_client_edit_client">Edit Client</string>
+    <string name="activity_client_send_msg">Send Message</string>
+    <string name="activity_main_app_comment">Welcome to Eduline!</string>
+    <string name="activity_main_settings">developer list</string>
+    <string name="adaptor_form_basic_content_comment">Input Measage</string>
+    <string name="adaptor_form_basic_content_title">Memo</string>
+    <string name="app_company">company</string>
+    <string name="app_input_data_problem">Oops! \n Please input proper data </string>
+    <string name="app_logout">Logout</string>
+    <string name="app_name">Eduline</string>
+    <string name="app_network_problem">Network Erorr \n Check your nework connecting service </string>
+    <string name="app_no_data_problem">Sorry! \n Data is not existed, yet!</string>
+    <string name="app_server_problem">Oops! \n Please wait for checking server system </string>
+    <string name="element_footer_delete_client">Delete</string>
+    <string name="element_footer_send_msg">Send</string>
+    <string name="element_header_add_client">add</string>
+    <string name="element_header_edit_client">edit</string>
+    <string name="element_header_title">client</string>
+    <string name="join_email">Email</string>
+    <string name="join_id">ID</string>
+    <string name="join_nickName">Nickname</string>
+    <string name="join_password">Password</string>
+    <string name="join_phoneNumber">PhoneNumber</string>
+    <string name="join_submit">Submit</string>
+    <string name="join_title">Join</string>
+    <string name="login_image">Image</string>
+    <string name="login_join">join</string>
+    <string name="login_login">Login</string>
+    <string name="tv_element_dialog_menu_card1">Notice Card</string>
+    <string name="tv_element_dialog_menu_card2">Report Card</string>
+    <string name="tv_element_footer_tab1">Client</string>
+    <string name="tv_element_footer_tab2">Group</string>
+    <!-- From: file:/C:/Users/Administrator/AndroidStudioProjects/Basic2.2/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <item name="android:windowNoTitle">true</item>
+
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="progress_dialog" parent="@android:Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowTitleStyle">@null</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:background">@android:color/transparent</item>
+    </style>
+    <style name="tv_comment">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">@color/app_ci_4</item>
+        <item name="android:lineSpacingExtra">1.5dp</item>
+    </style>
+    <style name="tv_content">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/app_ci_1</item>
+        <item name="android:lineSpacingExtra">1.5dp</item>
+    </style>
+    <style name="tv_element">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/app_ci_1</item>
+        <item name="android:lineSpacingExtra">1.5dp</item>
+    </style>
+    <style name="tv_element_footer_off">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/app_ci_4</item>
+        <item name="android:lineSpacingExtra">1.5dp</item>
+    </style>
+    <style name="tv_element_footer_on">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/app_ci_1</item>
+        <item name="android:lineSpacingExtra">1.5dp</item>
+    </style>
+    <style name="tv_menu">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/app_ci_1</item>
+        <item name="android:lineSpacingExtra">1.5dp</item>
+    </style>
+    <style name="tv_subtitle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/app_ci_1</item>
+        <item name="android:lineSpacingExtra">1.5dp</item>
+    </style>
+    <style name="tv_title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/app_ci_1</item>
+        <item name="android:lineSpacingExtra">1.5dp</item>
+    </style>
+</resources>

@@ -1,0 +1,170 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/element_layout_background"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/element_layout_header_height"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="@dimen/element_layout_header_margin"
+        android:background="@color/element_layout_header_background"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="@dimen/element_layout_header_padding"
+        android:visibility="gone" >
+    </LinearLayout>
+
+    <!-- android:padding="@color/element_layout_header_background" -->
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="@dimen/element_layout_body_margin"
+        android:layout_weight="1"
+        android:background="@color/element_layout_left_background"
+        android:orientation="horizontal"
+        android:padding="@dimen/element_layout_body_padding" >
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:layout_margin="@dimen/element_layout_left_margin"
+            android:layout_weight="1"
+            android:background="@color/element_layout_left_background"
+            android:orientation="vertical"
+            android:padding="@dimen/element_layout_left_padding" >
+
+            <!-- content start -->
+
+            <LinearLayout
+                android:id="@+id/ll_footer_left"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal|left"
+                android:onClick="button_clicked" >
+
+                <TextView
+                    android:id="@+id/tv_footer_left"
+                    style="@style/tv_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="5dp"
+                    android:background="@drawable/blank"
+                    android:padding="3dp"
+                    android:text="@string/element_footer_delete_client" />
+            </LinearLayout>
+
+            <!-- content end -->
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:layout_margin="@dimen/element_layout_center_margin"
+            android:layout_weight="2"
+            android:background="@color/element_layout_center_background"
+            android:orientation="vertical"
+            android:padding="@dimen/element_layout_center_padding" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dip"
+            android:layout_height="match_parent"
+            android:layout_gravity="top"
+            android:layout_margin="@dimen/element_layout_right_margin"
+            android:layout_weight="1"
+            android:background="@color/element_layout_right_background"
+            android:orientation="vertical"
+            android:padding="@dimen/element_layout_right_padding" >
+
+            <!-- content start -->
+
+            <LinearLayout
+                android:id="@+id/ll_footer_right"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical|center_horizontal|right"
+                android:onClick="button_clicked" >
+
+                <TextView
+                    android:id="@+id/tv_footer_right"
+                    style="@style/tv_menu"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginRight="5dp"
+                    android:background="@drawable/blank"
+                    android:clickable="false"
+                    android:focusable="false"
+                    android:padding="3dp"
+                    android:text="@string/element_footer_send_msg" >
+                </TextView>
+            </LinearLayout>
+
+            <!-- content end -->
+
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/element_footer_footer_height"
+        android:layout_gravity="center_vertical"
+        android:layout_margin="@dimen/element_layout_footer_margin"
+        android:background="@color/element_layout_footer_background"
+        android:gravity="center_vertical"
+        android:orientation="vertical"
+        android:padding="@dimen/element_layout_footer_padding" >
+
+        <!-- content start -->
+
+        <LinearLayout
+            android:id="@+id/ll_element_footer_tab"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_vertical|center_horizontal|left" >
+
+            <LinearLayout
+                android:id="@+id/ll_element_footer_tab1"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/blank"
+                android:gravity="center_vertical|center_horizontal|center"
+                android:onClick="element_footer_clicked" >
+
+                <TextView
+                    android:id="@+id/tv_element_footer_tab1"
+                    style="@style/tv_element_footer_off"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tv_element_footer_tab1" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_element_footer_tab2"
+                android:layout_width="0dip"
+                android:layout_height="match_parent"
+                android:layout_weight="1"
+                android:background="@drawable/blank"
+                android:gravity="center_vertical|center_horizontal|center"
+                android:onClick="element_footer_clicked" >
+
+                <TextView
+                    android:id="@+id/tv_element_footer_tab2"
+                    style="@style/tv_element_footer_off"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="@string/tv_element_footer_tab2" />
+            </LinearLayout>
+        </LinearLayout>
+
+        <!-- content end -->
+
+    </LinearLayout>
+
+</LinearLayout>
